@@ -1,4 +1,4 @@
-# FuckThisPaperLaunch
+# MuckThisPaperLaunch
 
 Shitty script I built to help me purchase a Ryzen 9 5950X on Amazon.  
 Of course, you can use it to buy anything, and now it has support for Newegg and Walmart as well.  
