@@ -1,5 +1,7 @@
 # MuckThisPaperLaunch
 
+[![Join the chat at https://gitter.im/uygary/muck-this-laper-launch](https://badges.gitter.im/uygary/muck-this-laper-launch.svg)](https://gitter.im/uygary/muck-this-laper-launch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Shitty script I built to help me purchase a Ryzen 9 5950X on Amazon.  
 Of course, you can use it to buy anything, and now it has support for Newegg and Walmart as well.  
 Looks like I'll eventually end up adding even more integrations thanks to the paper launch and cancelled orders due to lack of stock.
